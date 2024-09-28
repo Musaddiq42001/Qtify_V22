@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+:root {
+  --color-primary: #34C94B; /* You can set this to any color you prefer */
+  --color-black: #000; /* You can set this to any color you prefer */
+  --swiper-theme-color: #34C94B !important;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
